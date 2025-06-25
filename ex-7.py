@@ -1,5 +1,5 @@
 # Samantha Newmark
-# 346587629 
+# ********* 
 # Ex7
 
 import csv
