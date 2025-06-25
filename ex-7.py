@@ -83,7 +83,7 @@ def insert_owner_bst(root, new_node):
 
 def create_owner_node(owner_name, first_pokemon=None):
 	return {
-		'owner': owner_name.strip().lower(),
+		'owner': owner_name.strip(),
 		'pokedex': [first_pokemon] if first_pokemon else [],
 		'left': None,
 		'right': None
